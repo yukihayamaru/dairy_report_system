@@ -1,6 +1,5 @@
 package constants;
 
-package constants;
 
 /**
  * DB関連の項目値を定義するインターフェース
